@@ -17,8 +17,13 @@
    <target name="compile" depends="prepare">
      <javac srcdir="${sourceDir}" destdir="${outputDir}" />
    </target>
+<<<<<<< HEAD
    123
   test12345
+=======
+   
+  test123
+>>>>>>> branch_master
    
 </project>
 
