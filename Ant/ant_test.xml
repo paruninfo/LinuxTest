@@ -17,8 +17,8 @@
    <target name="compile" depends="prepare">
      <javac srcdir="${sourceDir}" destdir="${outputDir}" />
    </target>
-   123
-  
+   
+  test123
    
 </project>
 
